@@ -1,6 +1,6 @@
-# Season Graphics
+# Graphics2022
 
-This repository is used to store the graphics used in our 20XX Season
+This repository is used to store the graphics used in our 2022 Season
 
 ## Folder Structure
 
